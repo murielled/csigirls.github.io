@@ -1,0 +1,113 @@
+body{
+    /*text*/
+    font-family:sans-serif;
+    font-size: 16px;
+    font-style: none;
+    font-weight: normal;
+    background-color: white
+    
+    
+    /*spacing*/
+    padding 10% 20% 300px 40%;
+}
+
+#logo{
+    width:10%;
+    align-content:flex-end;
+}
+
+#oprah{
+    width:30%;
+}
+#superwoman{
+    width:20%;
+}
+div{
+    margin-left:20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+          
+}
+#cpic{
+    width:30%;
+}
+        
+#quote{
+    width:30%;
+    
+    
+}
+#acrostic{
+    color:#D71560;
+    text-align: left;
+}
+
+#love{
+    width:30%;
+}
+
+#heart{
+    width:20%;
+    align-content: 
+
+    
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size: 17px;
+}
+
+ 
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+nav {
+    color:#FFFFFF;
+    text-align:center;
+    letter-spacing: 9px;
+    font-weight: bold;
+    font-size: 4em;
+    font-family:'Galada', cursive; 
+    text-decoration: none;
+}
+
+a {
+    color:#000000
+}
+
+p{
+    color: black;
+    font-size:16px;
+    font-family:'Galada', cursive; 
+    text-align: center;
+
+}
+
+#container {
+    color:5260B1;
+}
+#box{
+    color:5260B1;
+}
+        

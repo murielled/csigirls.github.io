@@ -1,0 +1,16 @@
+nav {
+    background-color: chartreuse;
+    
+}
+
+nav a {
+    color: white;
+    display: inline-block;
+    font-size: 24px;
+    margin: 15px;
+    text-decoration: none;
+}
+
+#navTitle {
+    font-size: 36px;
+}
